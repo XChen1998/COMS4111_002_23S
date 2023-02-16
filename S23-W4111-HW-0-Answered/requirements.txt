@@ -1,0 +1,9 @@
+certifi
+click
+Flask
+itsdangerous
+Jinja2
+Markdown
+MarkupSafe
+Werkzeug
+pymysql
