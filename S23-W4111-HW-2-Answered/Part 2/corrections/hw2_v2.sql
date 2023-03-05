@@ -1,8 +1,8 @@
-drop schema if exists s23_w4111_hw2_dff9;
+drop schema if exists s23_w4111_hw2_xc2605;
 
-create schema s23_w4111_hw2_dff9;
+create schema s23_w4111_hw2_xc2605;
 
-use s23_w4111_hw2_dff9;
+use s23_w4111_hw2_xc2605;
 
 -- MySQL dump 10.13  Distrib 8.0.30, for macos12 (arm64)
 --
