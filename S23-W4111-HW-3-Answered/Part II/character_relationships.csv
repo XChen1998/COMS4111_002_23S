@@ -1,0 +1,784 @@
+sourceCharacterId,sourceCharacterName,relationship,targetCharacterName,targetCharacterId
+,Rhaegar Targaryen,abducted,Lyanna Stark,ch0543804
+ch0543804,Lyanna Stark,abductedBy,Rhaegar Targaryen,
+ch0154681,Eddard Stark,allies,Howland Reed,ch0543132
+ch0154681,Eddard Stark,allies,Robert Baratheon,ch0155776
+ch0543132,Howland Reed,allies,Eddard Stark,ch0154681
+ch0251737,Jon Arryn,allies,Robert Baratheon,ch0155776
+ch0155776,Robert Baratheon,allies,Jon Arryn,ch0251737
+ch0155776,Robert Baratheon,allies,Eddard Stark,ch0154681
+ch0155776,Robert Baratheon,allies,Tywin Lannister,ch0242185
+ch0242185,Tywin Lannister,allies,Robert Baratheon,ch0155776
+ch0158604,Arya Stark,guardedBy,Nymeria,
+ch0234897,Bran Stark,guardedBy,Summer,
+ch0158597,Daenerys Targaryen,guardedBy,Drogon,
+ch0158597,Daenerys Targaryen,guardedBy,Rhaegal,
+ch0158597,Daenerys Targaryen,guardedBy,Viserion,
+ch0154681,Eddard Stark,guardedBy,Jon Arryn,ch0251737
+ch0155777,Jon Snow,guardedBy,Eddard Stark,ch0154681
+ch0155777,Jon Snow,guardedBy,Ghost,
+ch0233141,Rickon Stark,guardedBy,Shaggydog,
+ch0158596,Robb Stark,guardedBy,Grey Wind,
+ch0155776,Robert Baratheon,guardedBy,Jon Arryn,ch0251737
+ch0158137,Sansa Stark,guardedBy,Lady,
+,Drogon,guardianOf,Daenerys Targaryen,ch0158597
+ch0154681,Eddard Stark,guardianOf,Jon Snow,ch0155777
+,Ghost,guardianOf,Jon Snow,ch0155777
+,Grey Wind,guardianOf,Robb Stark,ch0158596
+ch0158527,Jaime Lannister,guardianOf,Aerys II Targaryen,ch0541362
+ch0158527,Jaime Lannister,guardianOf,Robert Baratheon,ch0155776
+ch0158527,Jaime Lannister,guardianOf,Joffrey Baratheon,ch0156278
+ch0251737,Jon Arryn,guardianOf,Eddard Stark,ch0154681
+ch0251737,Jon Arryn,guardianOf,Robert Baratheon,ch0155776
+,Lady,guardianOf,Sansa Stark,ch0158137
+,Nymeria,guardianOf,Arya Stark,ch0158604
+,Rhaegal,guardianOf,Daenerys Targaryen,ch0158597
+,Shaggydog,guardianOf,Rickon Stark,ch0233141
+,Summer,guardianOf,Bran Stark,ch0234897
+,Viserion,guardianOf,Daenerys Targaryen,ch0158597
+ch0541362,Aerys II Targaryen,killed,Brandon Stark,
+ch0541362,Aerys II Targaryen,killed,Rickard Stark,
+ch0246938,Alliser Thorne,killed,Jon Snow,ch0155777
+ch0305002,Amory Lorch,killed,Yoren,ch0251493
+ch0158604,Arya Stark,killed,Red Keep Stableboy,ch0379229
+ch0158604,Arya Stark,killed,Polliver,ch0305023
+ch0158604,Arya Stark,killed,Rorge,ch0305019
+ch0158604,Arya Stark,killed,Meryn Trant,ch0246933
+ch0158604,Arya Stark,killed,The Waif,ch0508054
+ch0158604,Arya Stark,killed,Black Walder Rivers,ch0014591
+ch0158604,Arya Stark,killed,Lothar Frey,ch0384471
+ch0158604,Arya Stark,killed,Walder Frey,ch0305328
+ch0158604,Arya Stark,killed,Petyr Baelish,ch0245982
+ch0158604,Arya Stark,killed,The Night King,ch0512154
+ch0158604,Arya Stark,killed,White Walker,ch0304921
+ch0158604,Arya Stark,killed,White Walker,ch0304921
+ch0158604,Arya Stark,killed,White Walker,ch0304921
+ch0158604,Arya Stark,killed,Viserion,
+ch0014591,Black Walder Rivers,killed,Catelyn Stark,ch0145135
+ch0305036,Bowen Marsh,killed,Jon Snow,ch0155777
+ch0254503,Brienne of Tarth,killed,Stannis Baratheon,ch0250897
+ch0241345,Bronn,killed,Vardis Egen,ch0294458
+ch0241345,Bronn,killed,Matthos Seaworth,ch0305029
+ch0241345,Bronn,killed,Lead Dornish Guard,ch0539716
+ch0145135,Catelyn Stark,killed,Joyeuse Erenford,ch0304494
+ch0159526,Cersei Lannister,killed,Lancel Lannister,ch0376927
+ch0159526,Cersei Lannister,killed,High Sparrow,ch0476559
+ch0159526,Cersei Lannister,killed,Loras Tyrell,ch0231428
+ch0159526,Cersei Lannister,killed,Mace Tyrell,ch0384328
+ch0159526,Cersei Lannister,killed,Margaery Tyrell,ch0251974
+ch0159526,Cersei Lannister,killed,Kevan Lannister,ch0305013
+ch0159526,Cersei Lannister,killed,Tyene Sand,ch0468075
+ch0335040,Daario Naharis,killed,Mero,ch0123670
+ch0335040,Daario Naharis,killed,Prendahl na Ghezn,ch0339504
+ch0335040,Daario Naharis,killed,Mossador,ch0508053
+ch0335040,Daario Naharis,killed,Akho,ch0544520
+ch0158597,Daenerys Targaryen,killed,Khal Drogo,ch0171388
+ch0158597,Daenerys Targaryen,killed,Mirri Maz Duur,ch0305011
+ch0158597,Daenerys Targaryen,killed,Doreah,ch0248504
+ch0158597,Daenerys Targaryen,killed,Xaro Xhoan Daxos,ch0303950
+ch0158597,Daenerys Targaryen,killed,Khal Rhalko,ch0535371
+ch0158597,Daenerys Targaryen,killed,Khal Moro,ch0538748
+ch0158597,Daenerys Targaryen,killed,Dothraki Bloodrider #1,ch0542918
+ch0158597,Daenerys Targaryen,killed,Dothraki Bloodrider #2,ch0542918
+ch0158597,Daenerys Targaryen,killed,Randyll Tarly,ch0524408
+ch0158597,Daenerys Targaryen,killed,Dickon Tarly,ch0541363
+ch0158597,Daenerys Targaryen,killed,Lord Varys,ch0249636
+ch0248504,Doreah,killed,Irri,ch0249444
+,Drogon,killed,Pyat Pree,ch0303952
+,Drogon,killed,Kraznys mo Nakloz,ch0339503
+ch0154681,Eddard Stark,killed,Arthur Dayne,ch0540097
+ch0154681,Eddard Stark,killed,Will,ch0171394
+ch0154681,Eddard Stark,killed,Lady,
+ch0154681,Eddard Stark,killed,Gerold Hightower,ch0540530
+ch0309687,Ellaria Sand,killed,Myrcella Baratheon,ch0238585
+ch0309687,Ellaria Sand,killed,Doran Martell,ch0468006
+ch0518715,Euron Greyjoy,killed,Balon Greyjoy,ch0292152
+ch0518715,Euron Greyjoy,killed,Obara Sand,ch0468001
+ch0518715,Euron Greyjoy,killed,Nymeria Sand,ch0468074
+ch0518715,Euron Greyjoy,killed,Rhaegal,
+,Ghost,killed,Rast,ch0251498
+ch0245401,Gregor Clegane,killed,Elia Martell,
+ch0245401,Gregor Clegane,killed,Rhaenys Targaryen,
+ch0245401,Gregor Clegane,killed,Aegon Targaryen,
+ch0245401,Gregor Clegane,killed,Hugh of the Vale,ch0305026
+ch0245401,Gregor Clegane,killed,Oberyn Martell,ch0392307
+ch0245401,Gregor Clegane,killed,Missandei,ch0316923
+ch0245401,Gregor Clegane,killed,Qyburn,ch0316929
+ch0251496,Grenn,killed,Mag the Mighty,ch0510933
+ch0335038,Grey Worm,killed,Razdal mo Eraz,ch0413591
+ch0335038,Grey Worm,killed,Harry Strickland,
+ch0238584,Hodor,killed,Locke,ch0045904
+ch0543132,Howland Reed,killed,Arthur Dayne,ch0540097
+ch0246254,Ilyn Payne,killed,Eddard Stark,ch0154681
+ch0158527,Jaime Lannister,killed,Aerys II Targaryen,ch0541362
+ch0158527,Jaime Lannister,killed,Jory Cassel,ch0245400
+ch0158527,Jaime Lannister,killed,Alton Lannister,ch0305012
+ch0158527,Jaime Lannister,killed,Olenna Tyrell,ch0010188
+ch0158527,Jaime Lannister,killed,Euron Greyjoy,ch0518715
+ch0259179,Jaqen H'ghar,killed,The Tickler,ch0305033
+ch0259179,Jaqen H'ghar,killed,Amory Lorch,ch0305002
+ch0156278,Joffrey Baratheon,killed,Ros,ch0010187
+ch0155777,Jon Snow,killed,Othor,
+ch0155777,Jon Snow,killed,Qhorin Halfhand,ch0303951
+ch0155777,Jon Snow,killed,Orell,ch0316922
+ch0155777,Jon Snow,killed,Karl Tanner,ch0396528
+ch0155777,Jon Snow,killed,Styr,ch0400416
+ch0155777,Jon Snow,killed,Mance Rayder,ch0335039
+ch0155777,Jon Snow,killed,Janos Slynt,ch0300651
+ch0155777,Jon Snow,killed,White Walker,ch0304921
+ch0155777,Jon Snow,killed,White Walker,ch0304921
+ch0155777,Jon Snow,killed,White Walker,ch0304921
+ch0155777,Jon Snow,killed,Alliser Thorne,ch0246938
+ch0155777,Jon Snow,killed,Othell Yarwyck,ch0305003
+ch0155777,Jon Snow,killed,Bowen Marsh,ch0305036
+ch0155777,Jon Snow,killed,Olly,ch0508055
+ch0155777,Jon Snow,killed,Lyanna Stark,ch0543804
+ch0155777,Jon Snow,killed,Daenerys Targaryen,ch0158597
+ch0158221,Jorah Mormont,killed,Qotho,ch0246162
+ch0396528,Karl Tanner,killed,Craster,ch0300218
+ch0171388,Khal Drogo,killed,Viserys Targaryen,ch0155775
+ch0171388,Khal Drogo,killed,Mago,ch0379227
+ch0542106,Lem Lemoncloak,killed,Brother Ray,ch0541878
+ch0384471,Lothar Frey,killed,Talisa Maegyr,ch0305007
+ch0541884,Lyanna Mormont,killed,Wun Wun,ch0524621
+ch0251736,Lysa Arryn,killed,Jon Arryn,ch0251737
+ch0255280,Maester Cressen,killed,Maester Cressen,ch0255280
+ch0510933,Mag the Mighty,killed,Grenn,ch0251496
+ch0316928,Meera Reed,killed,Jojen Reed,ch0316921
+ch0316928,Meera Reed,killed,White Walker,ch0304921
+ch0316928,Meera Reed,killed,White Walker,ch0304921
+ch0316928,Meera Reed,killed,White Walker,ch0304921
+ch0287523,Melisandre,killed,Renly Baratheon,ch0246253
+ch0287523,Melisandre,killed,Mance Rayder,ch0335039
+ch0287523,Melisandre,killed,Shireen Baratheon,ch0306346
+ch0246933,Meryn Trant,killed,Syrio Forel,ch0246934
+ch0305011,Mirri Maz Duur,killed,Rhaego,
+ch0468001,Obara Sand,killed,Merchant Captain,ch0531846
+ch0468001,Obara Sand,killed,Trystane Martell,ch0506400
+ch0010188,Olenna Tyrell,killed,Joffrey Baratheon,ch0156278
+ch0508055,Olly,killed,Ygritte,ch0304492
+ch0508055,Olly,killed,Jon Snow,ch0155777
+ch0295802,Osha,killed,Drennan,ch0305030
+ch0295802,Osha,killed,Maester Luwin,ch0171393
+ch0305003,Othell Yarwyck,killed,Jon Snow,ch0155777
+ch0245982,Petyr Baelish,killed,Joffrey Baratheon,ch0156278
+ch0245982,Petyr Baelish,killed,Dontos Hollard,ch0305031
+ch0245982,Petyr Baelish,killed,Lysa Arryn,ch0251736
+ch0306046,Podrick Payne,killed,Mandon Moore,ch0306220
+ch0305023,Polliver,killed,Lommy Greenhands,ch0257030
+ch0303952,Pyat Pree,killed,Spice King,ch0305005
+ch0303952,Pyat Pree,killed,Silk King,ch0345051
+ch0321004,Ramsay Snow,killed,Roose Bolton,ch0305006
+ch0321004,Ramsay Snow,killed,Osha,ch0295802
+ch0321004,Ramsay Snow,killed,Rickon Stark,ch0233141
+ch0321004,Ramsay Snow,killed,Wun Wun,ch0524621
+ch0251498,Rast,killed,Jeor Mormont,ch0251492
+,Rhaegal,killed,Pyat Pree,ch0303952
+,Rhaegal,killed,Great Master #1,ch0525536
+ch0305331,Rickard Karstark,killed,Martyn Lannister,ch0395355
+ch0305331,Rickard Karstark,killed,Willem Lannister,ch0395356
+ch0158596,Robb Stark,killed,Wallen,
+ch0158596,Robb Stark,killed,Rickard Karstark,ch0305331
+ch0155776,Robert Baratheon,killed,Rhaegar Targaryen,
+ch0305006,Roose Bolton,killed,Robb Stark,ch0158596
+ch0244961,Samwell Tarly,killed,White Walker,ch0304921
+ch0244961,Samwell Tarly,killed,White Walker,ch0304921
+ch0244961,Samwell Tarly,killed,White Walker,ch0304921
+ch0244961,Samwell Tarly,killed,Thenn Warg,ch0400416
+ch0162882,Sandor Clegane,killed,Mycah,ch0305045
+ch0162882,Sandor Clegane,killed,Beric Dondarrion,ch0305320
+ch0162882,Sandor Clegane,killed,Biter,ch0305028
+ch0162882,Sandor Clegane,killed,Gatins,ch0523969
+ch0162882,Sandor Clegane,killed,Lem Lemoncloak,ch0542106
+ch0162882,Sandor Clegane,killed,Gregor Clegane,ch0245401
+ch0162882,Sandor Clegane,killed,Sandor Clegane,ch0162882
+ch0316924,Selyse Baratheon,killed,Selyse Baratheon,ch0316924
+ch0540067,Smalljon Umber,killed,Shaggydog,
+,Summer,killed,Catspaw Assassin,ch0305046
+ch0512154,The Night King,killed,Three-Eyed Raven,ch0414457
+ch0512154,The Night King,killed,Viserion,
+ch0512154,The Night King,killed,Ned Umber,44947/cha
+ch0512154,The Night King,killed,Theon Greyjoy,ch0158526
+ch0508054,The Waif,killed,Lady Crane,ch0541190
+ch0158526,Theon Greyjoy,killed,Stiv,ch0304972
+ch0158526,Theon Greyjoy,killed,Rodrik Cassel,ch0171391
+ch0158526,Theon Greyjoy,killed,Myranda,ch0316926
+ch0256424,Tommen Baratheon,killed,Tommen Baratheon,ch0256424
+ch0316925,Tormund Giantsbane,killed,Rattleshirt,ch0305888
+ch0316925,Tormund Giantsbane,killed,Smalljon Umber,ch0540067
+ch0468075,Tyene Sand,killed,Areo Hotah,ch0507107
+ch0146096,Tyrion Lannister,killed,Shae,ch0250564
+ch0146096,Tyrion Lannister,killed,Tywin Lannister,ch0242185
+,Viserion,killed,Pyat Pree,ch0303952
+,Viserion,killed,Great Master #1,ch0525536
+ch0304921,White Walker,killed,Loboda,ch0511931
+ch0524621,Wun Wun,killed,Lyanna Mormont,ch0541884
+ch0304492,Ygritte,killed,Pypar,ch0273477
+,Aegon Targaryen,killedBy,Gregor Clegane,ch0245401
+ch0541362,Aerys II Targaryen,killedBy,Jaime Lannister,ch0158527
+ch0544520,Akho,killedBy,Daario Naharis,ch0335040
+ch0246938,Alliser Thorne,killedBy,Jon Snow,ch0155777
+ch0305012,Alton Lannister,killedBy,Jaime Lannister,ch0158527
+ch0305002,Amory Lorch,killedBy,Jaqen H'ghar,ch0259179
+ch0507107,Areo Hotah,killedBy,Tyene Sand,ch0468075
+ch0540097,Arthur Dayne,killedBy,Howland Reed,ch0543132
+ch0540097,Arthur Dayne,killedBy,Eddard Stark,ch0154681
+ch0292152,Balon Greyjoy,killedBy,Euron Greyjoy,ch0518715
+ch0305320,Beric Dondarrion,killedBy,Sandor Clegane,ch0162882
+ch0305028,Biter,killedBy,Sandor Clegane,ch0162882
+ch0014591,Black Walder Rivers,killedBy,Arya Stark,ch0158604
+ch0305036,Bowen Marsh,killedBy,Jon Snow,ch0155777
+,Brandon Stark,killedBy,Aerys II Targaryen,ch0541362
+ch0541878,Brother Ray,killedBy,Lem Lemoncloak,ch0542106
+ch0145135,Catelyn Stark,killedBy,Black Walder Rivers,ch0014591
+ch0305046,Catspaw Assassin,killedBy,Summer,
+ch0300218,Craster,killedBy,Karl Tanner,ch0396528
+ch0158597,Daenerys Targaryen,killedBy,Jon Snow,ch0155777
+ch0541363,Dickon Tarly,killedBy,Daenerys Targaryen,ch0158597
+ch0510932,Dongo the Giant,killedBy,Night's Watchman,ch0509452
+ch0510932,Dongo the Giant,killedBy,Night's Watchman,ch0509452
+ch0510932,Dongo the Giant,killedBy,Night's Watchman,ch0509452
+ch0305031,Dontos Hollard,killedBy,Petyr Baelish,ch0245982
+ch0468006,Doran Martell,killedBy,Ellaria Sand,ch0309687
+ch0248504,Doreah,killedBy,Daenerys Targaryen,ch0158597
+ch0542918,Dothraki Bloodrider #1,killedBy,Daenerys Targaryen,ch0158597
+ch0542918,Dothraki Bloodrider #2,killedBy,Daenerys Targaryen,ch0158597
+ch0305030,Drennan,killedBy,Osha,ch0295802
+ch0154681,Eddard Stark,killedBy,Ilyn Payne,ch0246254
+,Elia Martell,killedBy,Gregor Clegane,ch0245401
+ch0518715,Euron Greyjoy,killedBy,Jaime Lannister,ch0158527
+ch0171395,Gared,killedBy,White Walker,ch0304921
+ch0171395,Gared,killedBy,White Walker,ch0304921
+ch0171395,Gared,killedBy,White Walker,ch0304921
+ch0523969,Gatins,killedBy,Sandor Clegane,ch0162882
+ch0540530,Gerold Hightower,killedBy,Eddard Stark,ch0154681
+ch0525536,Great Master #1,killedBy,Viserion,
+ch0525536,Great Master #1,killedBy,Rhaegal,
+ch0245401,Gregor Clegane,killedBy,Sandor Clegane,ch0162882
+ch0251496,Grenn,killedBy,Mag the Mighty,ch0510933
+,Harry Strickland,killedBy,Grey Worm,ch0335038
+ch0476559,High Sparrow,killedBy,Cersei Lannister,ch0159526
+ch0305026,Hugh of the Vale,killedBy,Gregor Clegane,ch0245401
+ch0249444,Irri,killedBy,Doreah,ch0248504
+,Jafer Flowers,killedBy,White Walker,ch0304921
+,Jafer Flowers,killedBy,White Walker,ch0304921
+,Jafer Flowers,killedBy,White Walker,ch0304921
+ch0300651,Janos Slynt,killedBy,Jon Snow,ch0155777
+ch0251492,Jeor Mormont,killedBy,Rast,ch0251498
+ch0156278,Joffrey Baratheon,killedBy,Petyr Baelish,ch0245982
+ch0156278,Joffrey Baratheon,killedBy,Olenna Tyrell,ch0010188
+ch0316921,Jojen Reed,killedBy,Meera Reed,ch0316928
+ch0251737,Jon Arryn,killedBy,Lysa Arryn,ch0251736
+ch0155777,Jon Snow,killedBy,Alliser Thorne,ch0246938
+ch0155777,Jon Snow,killedBy,Othell Yarwyck,ch0305003
+ch0155777,Jon Snow,killedBy,Bowen Marsh,ch0305036
+ch0155777,Jon Snow,killedBy,Olly,ch0508055
+ch0245400,Jory Cassel,killedBy,Jaime Lannister,ch0158527
+ch0304494,Joyeuse Erenford,killedBy,Catelyn Stark,ch0145135
+ch0396528,Karl Tanner,killedBy,Jon Snow,ch0155777
+ch0305013,Kevan Lannister,killedBy,Cersei Lannister,ch0159526
+ch0171388,Khal Drogo,killedBy,Daenerys Targaryen,ch0158597
+ch0538748,Khal Moro,killedBy,Daenerys Targaryen,ch0158597
+ch0535371,Khal Rhalko,killedBy,Daenerys Targaryen,ch0158597
+ch0348391,King's Landing Rioter #1,killedBy,Sandor Clegane,ch0162882
+ch0348391,King's Landing Rioter #2,killedBy,Sandor Clegane,ch0162882
+ch0348391,King's Landing Rioter #3,killedBy,Sandor Clegane,ch0162882
+ch0339503,Kraznys mo Nakloz,killedBy,Drogon,
+,Lady,killedBy,Eddard Stark,ch0154681
+ch0541190,Lady Crane,killedBy,The Waif,ch0508054
+ch0376927,Lancel Lannister,killedBy,Cersei Lannister,ch0159526
+ch0539716,Lead Dornish Guard,killedBy,Bronn,ch0241345
+ch0542106,Lem Lemoncloak,killedBy,Sandor Clegane,ch0162882
+ch0511931,Loboda,killedBy,White Walker,ch0304921
+ch0511931,Loboda,killedBy,White Walker,ch0304921
+ch0511931,Loboda,killedBy,White Walker,ch0304921
+ch0045904,Locke,killedBy,Hodor,ch0238584
+ch0257030,Lommy Greenhands,killedBy,Polliver,ch0305023
+ch0231428,Loras Tyrell,killedBy,Cersei Lannister,ch0159526
+ch0249636,Lord Varys,killedBy,Daenerys Targaryen,ch0158597
+ch0384471,Lothar Frey,killedBy,Arya Stark,ch0158604
+ch0541884,Lyanna Mormont,killedBy,Wun Wun,ch0524621
+ch0543804,Lyanna Stark,killedBy,Jon Snow,ch0155777
+ch0251736,Lysa Arryn,killedBy,Petyr Baelish,ch0245982
+ch0384328,Mace Tyrell,killedBy,Cersei Lannister,ch0159526
+ch0255280,Maester Cressen,killedBy,Maester Cressen,ch0255280
+ch0171393,Maester Luwin,killedBy,Osha,ch0295802
+ch0510933,Mag the Mighty,killedBy,Grenn,ch0251496
+ch0379227,Mago,killedBy,Khal Drogo,ch0171388
+ch0335039,Mance Rayder,killedBy,Melisandre,ch0287523
+ch0335039,Mance Rayder,killedBy,Jon Snow,ch0155777
+ch0306220,Mandon Moore,killedBy,Podrick Payne,ch0306046
+ch0251974,Margaery Tyrell,killedBy,Cersei Lannister,ch0159526
+ch0395355,Martyn Lannister,killedBy,Rickard Karstark,ch0305331
+ch0305029,Matthos Seaworth,killedBy,Bronn,ch0241345
+ch0531846,Merchant Captain,killedBy,Obara Sand,ch0468001
+ch0123670,Mero,killedBy,Daario Naharis,ch0335040
+ch0246933,Meryn Trant,killedBy,Arya Stark,ch0158604
+ch0305011,Mirri Maz Duur,killedBy,Daenerys Targaryen,ch0158597
+ch0316923,Missandei,killedBy,Gregor Clegane,ch0245401
+ch0508053,Mossador,killedBy,Daario Naharis,ch0335040
+ch0305045,Mycah,killedBy,Sandor Clegane,ch0162882
+ch0316926,Myranda,killedBy,Theon Greyjoy,ch0158526
+ch0238585,Myrcella Baratheon,killedBy,Ellaria Sand,ch0309687
+44947/cha,Ned Umber,killedBy,The Night King,ch0512154
+ch0468074,Nymeria Sand,killedBy,Euron Greyjoy,ch0518715
+ch0468001,Obara Sand,killedBy,Euron Greyjoy,ch0518715
+ch0392307,Oberyn Martell,killedBy,Gregor Clegane,ch0245401
+ch0010188,Olenna Tyrell,killedBy,Jaime Lannister,ch0158527
+ch0508055,Olly,killedBy,Jon Snow,ch0155777
+ch0316922,Orell,killedBy,Jon Snow,ch0155777
+ch0295802,Osha,killedBy,Ramsay Snow,ch0321004
+ch0305003,Othell Yarwyck,killedBy,Jon Snow,ch0155777
+,Othor,killedBy,White Walker,ch0304921
+,Othor,killedBy,White Walker,ch0304921
+,Othor,killedBy,White Walker,ch0304921
+,Othor,killedBy,Jon Snow,ch0155777
+ch0245982,Petyr Baelish,killedBy,Arya Stark,ch0158604
+ch0305023,Polliver,killedBy,Arya Stark,ch0158604
+ch0339504,Prendahl na Ghezn,killedBy,Daario Naharis,ch0335040
+ch0303952,Pyat Pree,killedBy,Drogon,
+ch0303952,Pyat Pree,killedBy,Viserion,
+ch0303952,Pyat Pree,killedBy,Rhaegal,
+ch0273477,Pypar,killedBy,Ygritte,ch0304492
+ch0303951,Qhorin Halfhand,killedBy,Jon Snow,ch0155777
+ch0246162,Qotho,killedBy,Jorah Mormont,ch0158221
+ch0316929,Qyburn,killedBy,Gregor Clegane,ch0245401
+ch0524408,Randyll Tarly,killedBy,Daenerys Targaryen,ch0158597
+ch0251498,Rast,killedBy,Ghost,
+ch0305888,Rattleshirt,killedBy,Tormund Giantsbane,ch0316925
+ch0413591,Razdal mo Eraz,killedBy,Grey Worm,ch0335038
+ch0379229,Red Keep Stableboy,killedBy,Arya Stark,ch0158604
+ch0246253,Renly Baratheon,killedBy,Melisandre,ch0287523
+,Rhaegal,killedBy,Euron Greyjoy,ch0518715
+,Rhaegar Targaryen,killedBy,Robert Baratheon,ch0155776
+,Rhaego,killedBy,Mirri Maz Duur,ch0305011
+,Rhaenys Targaryen,killedBy,Gregor Clegane,ch0245401
+ch0305331,Rickard Karstark,killedBy,Robb Stark,ch0158596
+,Rickard Stark,killedBy,Aerys II Targaryen,ch0541362
+ch0233141,Rickon Stark,killedBy,Ramsay Snow,ch0321004
+ch0158596,Robb Stark,killedBy,Roose Bolton,ch0305006
+ch0171391,Rodrik Cassel,killedBy,Theon Greyjoy,ch0158526
+ch0305006,Roose Bolton,killedBy,Ramsay Snow,ch0321004
+ch0305019,Rorge,killedBy,Arya Stark,ch0158604
+ch0010187,Ros,killedBy,Joffrey Baratheon,ch0156278
+ch0162882,Sandor Clegane,killedBy,Sandor Clegane,ch0162882
+ch0316924,Selyse Baratheon,killedBy,Selyse Baratheon,ch0316924
+ch0248505,Septa Mordane,killedBy,Lannister Guardsman,ch0305047
+ch0250564,Shae,killedBy,Tyrion Lannister,ch0146096
+,Shaggydog,killedBy,Smalljon Umber,ch0540067
+ch0306346,Shireen Baratheon,killedBy,Melisandre,ch0287523
+ch0345051,Silk King,killedBy,Pyat Pree,ch0303952
+ch0540067,Smalljon Umber,killedBy,Tormund Giantsbane,ch0316925
+ch0305005,Spice King,killedBy,Pyat Pree,ch0303952
+ch0250897,Stannis Baratheon,killedBy,Brienne of Tarth,ch0254503
+ch0304972,Stiv,killedBy,Theon Greyjoy,ch0158526
+ch0400416,Styr,killedBy,Jon Snow,ch0155777
+ch0246934,Syrio Forel,killedBy,Meryn Trant,ch0246933
+ch0305007,Talisa Maegyr,killedBy,Lothar Frey,ch0384471
+ch0512154,The Night King,killedBy,Arya Stark,ch0158604
+ch0305033,The Tickler,killedBy,Jaqen H'ghar,ch0259179
+ch0508054,The Waif,killedBy,Arya Stark,ch0158604
+ch0400416,Thenn Warg,killedBy,Samwell Tarly,ch0244961
+ch0158526,Theon Greyjoy,killedBy,The Night King,ch0512154
+ch0414457,Three-Eyed Raven,killedBy,The Night King,ch0512154
+ch0256424,Tommen Baratheon,killedBy,Tommen Baratheon,ch0256424
+ch0506400,Trystane Martell,killedBy,Obara Sand,ch0468001
+ch0468075,Tyene Sand,killedBy,Cersei Lannister,ch0159526
+ch0242185,Tywin Lannister,killedBy,Tyrion Lannister,ch0146096
+ch0294458,Vardis Egen,killedBy,Bronn,ch0241345
+ch0379226,Varly,killedBy,Goldcloak,ch0305037
+ch0379226,Varly,killedBy,Goldcloak,ch0305037
+,Viserion,killedBy,The Night King,ch0512154
+,Viserion,killedBy,Arya Stark,ch0158604
+ch0155775,Viserys Targaryen,killedBy,Khal Drogo,ch0171388
+ch0305328,Walder Frey,killedBy,Arya Stark,ch0158604
+,Wallen,killedBy,Robb Stark,ch0158596
+ch0171390,Waymar Royce,killedBy,White Walker,ch0304921
+ch0171390,Waymar Royce,killedBy,White Walker,ch0304921
+ch0171390,Waymar Royce,killedBy,White Walker,ch0304921
+ch0304921,White Walker,killedBy,Samwell Tarly,ch0244961
+ch0304921,White Walker,killedBy,Jon Snow,ch0155777
+ch0171394,Will,killedBy,Eddard Stark,ch0154681
+ch0395356,Willem Lannister,killedBy,Rickard Karstark,ch0305331
+ch0524621,Wun Wun,killedBy,Ramsay Snow,ch0321004
+ch0524621,Wun Wun,killedBy,Lyanna Mormont,ch0541884
+ch0303950,Xaro Xhoan Daxos,killedBy,Daenerys Targaryen,ch0158597
+ch0304492,Ygritte,killedBy,Olly,ch0508055
+ch0251493,Yoren,killedBy,Amory Lorch,ch0305002
+ch0541362,Aerys II Targaryen,marriedEngaged,Rhaella Targaryen,
+ch0241345,Bronn,marriedEngaged,Lollys Stokeworth,ch0511247
+ch0145135,Catelyn Stark,marriedEngaged,Eddard Stark,ch0154681
+ch0145135,Catelyn Stark,marriedEngaged,Brandon Stark,
+ch0159526,Cersei Lannister,marriedEngaged,Robert Baratheon,ch0155776
+ch0158597,Daenerys Targaryen,marriedEngaged,Khal Drogo,ch0171388
+ch0154681,Eddard Stark,marriedEngaged,Catelyn Stark,ch0145135
+ch0316931,Edmure Tully,marriedEngaged,Roslin Frey,ch0391563
+ch0309687,Ellaria Sand,marriedEngaged,Oberyn Martell,ch0392307
+,Elia Martell,marriedEngaged,Rhaegar Targaryen,
+ch0306819,Gilly,marriedEngaged,Samwell Tarly,ch0244961
+ch0156278,Joffrey Baratheon,marriedEngaged,Sansa Stark,ch0158137
+ch0156278,Joffrey Baratheon,marriedEngaged,Margaery Tyrell,ch0251974
+ch0155777,Jon Snow,marriedEngaged,Ygritte,ch0304492
+ch0304494,Joyeuse Erenford,marriedEngaged,Walder Frey,ch0305328
+ch0171388,Khal Drogo,marriedEngaged,Daenerys Targaryen,ch0158597
+ch0576869,Kitty Frey,marriedEngaged,Walder Frey,ch0305328
+ch0511247,Lollys Stokeworth,marriedEngaged,Bronn,ch0241345
+ch0543804,Lyanna Stark,marriedEngaged,Robert Baratheon,ch0155776
+ch0543804,Lyanna Stark,marriedEngaged,Rhaegar Targaryen,
+ch0251736,Lysa Arryn,marriedEngaged,Petyr Baelish,ch0245982
+ch0251974,Margaery Tyrell,marriedEngaged,Renly Baratheon,ch0246253
+ch0251974,Margaery Tyrell,marriedEngaged,Joffrey Baratheon,ch0156278
+ch0251974,Margaery Tyrell,marriedEngaged,Tommen Baratheon,ch0256424
+ch0541191,Melessa Tarly,marriedEngaged,Randyll Tarly,ch0524408
+ch0238585,Myrcella Baratheon,marriedEngaged,Trystane Martell,ch0506400
+ch0392307,Oberyn Martell,marriedEngaged,Ellaria Sand,ch0309687
+ch0245982,Petyr Baelish,marriedEngaged,Lysa Arryn,ch0251736
+ch0321004,Ramsay Snow,marriedEngaged,Sansa Stark,ch0158137
+ch0524408,Randyll Tarly,marriedEngaged,Melessa Tarly,ch0541191
+ch0246253,Renly Baratheon,marriedEngaged,Margaery Tyrell,ch0251974
+,Rhaegar Targaryen,marriedEngaged,Elia Martell,
+,Rhaegar Targaryen,marriedEngaged,Lyanna Stark,ch0543804
+,Rhaella Targaryen,marriedEngaged,Aerys II Targaryen,ch0541362
+ch0158596,Robb Stark,marriedEngaged,Roslin Frey,ch0391563
+ch0158596,Robb Stark,marriedEngaged,Talisa Maegyr,ch0305007
+ch0155776,Robert Baratheon,marriedEngaged,Lyanna Stark,ch0543804
+ch0155776,Robert Baratheon,marriedEngaged,Cersei Lannister,ch0159526
+ch0305006,Roose Bolton,marriedEngaged,Walda Bolton,ch0506401
+ch0391563,Roslin Frey,marriedEngaged,Robb Stark,ch0158596
+ch0391563,Roslin Frey,marriedEngaged,Edmure Tully,ch0316931
+ch0244961,Samwell Tarly,marriedEngaged,Gilly,ch0306819
+ch0158137,Sansa Stark,marriedEngaged,Joffrey Baratheon,ch0156278
+ch0158137,Sansa Stark,marriedEngaged,Tyrion Lannister,ch0146096
+ch0158137,Sansa Stark,marriedEngaged,Ramsay Snow,ch0321004
+ch0316924,Selyse Baratheon,marriedEngaged,Stannis Baratheon,ch0250897
+ch0250897,Stannis Baratheon,marriedEngaged,Selyse Baratheon,ch0316924
+ch0305007,Talisa Maegyr,marriedEngaged,Robb Stark,ch0158596
+ch0256424,Tommen Baratheon,marriedEngaged,Margaery Tyrell,ch0251974
+ch0506400,Trystane Martell,marriedEngaged,Myrcella Baratheon,ch0238585
+ch0146096,Tyrion Lannister,marriedEngaged,Sansa Stark,ch0158137
+ch0506401,Walda Bolton,marriedEngaged,Roose Bolton,ch0305006
+ch0305328,Walder Frey,marriedEngaged,Joyeuse Erenford,ch0304494
+ch0305328,Walder Frey,marriedEngaged,Kitty Frey,ch0576869
+ch0304492,Ygritte,marriedEngaged,Jon Snow,ch0155777
+ch0541362,Aerys II Targaryen,parentOf,Daenerys Targaryen,ch0158597
+ch0541362,Aerys II Targaryen,parentOf,Rhaegar Targaryen,
+ch0541362,Aerys II Targaryen,parentOf,Viserys Targaryen,ch0155775
+ch0292152,Balon Greyjoy,parentOf,Yara Greyjoy,ch0300217
+ch0292152,Balon Greyjoy,parentOf,Theon Greyjoy,ch0158526
+ch0145135,Catelyn Stark,parentOf,Robb Stark,ch0158596
+ch0145135,Catelyn Stark,parentOf,Sansa Stark,ch0158137
+ch0145135,Catelyn Stark,parentOf,Arya Stark,ch0158604
+ch0145135,Catelyn Stark,parentOf,Bran Stark,ch0234897
+ch0145135,Catelyn Stark,parentOf,Rickon Stark,ch0233141
+ch0159526,Cersei Lannister,parentOf,Joffrey Baratheon,ch0156278
+ch0159526,Cersei Lannister,parentOf,Myrcella Baratheon,ch0238585
+ch0159526,Cersei Lannister,parentOf,Tommen Baratheon,ch0256424
+ch0158597,Daenerys Targaryen,parentOf,Rhaego,
+ch0255396,Davos Seaworth,parentOf,Matthos Seaworth,ch0305029
+ch0468006,Doran Martell,parentOf,Trystane Martell,ch0506400
+ch0154681,Eddard Stark,parentOf,Robb Stark,ch0158596
+ch0154681,Eddard Stark,parentOf,Sansa Stark,ch0158137
+ch0154681,Eddard Stark,parentOf,Arya Stark,ch0158604
+ch0154681,Eddard Stark,parentOf,Bran Stark,ch0234897
+ch0154681,Eddard Stark,parentOf,Rickon Stark,ch0233141
+ch0309687,Ellaria Sand,parentOf,Tyene Sand,ch0468075
+,Elia Martell,parentOf,Rhaenys Targaryen,
+,Elia Martell,parentOf,Aegon Targaryen,
+ch0306819,Gilly,parentOf,Baby Sam,ch0547881
+ch0305010,Greatjon Umber,parentOf,Smalljon Umber,ch0540067
+ch0542917,Harald Karstark,parentOf,Alys Karstark,ch0576836
+ch0543132,Howland Reed,parentOf,Jojen Reed,ch0316921
+ch0543132,Howland Reed,parentOf,Meera Reed,ch0316928
+ch0158527,Jaime Lannister,parentOf,Joffrey Baratheon,ch0156278
+ch0158527,Jaime Lannister,parentOf,Myrcella Baratheon,ch0238585
+ch0158527,Jaime Lannister,parentOf,Tommen Baratheon,ch0256424
+ch0251492,Jeor Mormont,parentOf,Jorah Mormont,ch0158221
+ch0305013,Kevan Lannister,parentOf,Lancel Lannister,ch0376927
+ch0305013,Kevan Lannister,parentOf,Martyn Lannister,ch0395355
+ch0305013,Kevan Lannister,parentOf,Willem Lannister,ch0395356
+ch0171388,Khal Drogo,parentOf,Rhaego,
+ch0543804,Lyanna Stark,parentOf,Jon Snow,ch0155777
+ch0384328,Mace Tyrell,parentOf,Margaery Tyrell,ch0251974
+ch0384328,Mace Tyrell,parentOf,Loras Tyrell,ch0231428
+ch0541191,Melessa Tarly,parentOf,Dickon Tarly,ch0541363
+ch0541191,Melessa Tarly,parentOf,Samwell Tarly,ch0244961
+ch0541191,Melessa Tarly,parentOf,Talla Tarly,ch0523897
+ch0392307,Oberyn Martell,parentOf,Obara Sand,ch0468001
+ch0392307,Oberyn Martell,parentOf,Nymeria Sand,ch0468074
+ch0392307,Oberyn Martell,parentOf,Tyene Sand,ch0468075
+ch0010188,Olenna Tyrell,parentOf,Mace Tyrell,ch0384328
+ch0524408,Randyll Tarly,parentOf,Dickon Tarly,ch0541363
+ch0524408,Randyll Tarly,parentOf,Samwell Tarly,ch0244961
+ch0524408,Randyll Tarly,parentOf,Talla Tarly,ch0523897
+,Rhaegar Targaryen,parentOf,Jon Snow,ch0155777
+,Rhaegar Targaryen,parentOf,Rhaenys Targaryen,
+,Rhaegar Targaryen,parentOf,Aegon Targaryen,
+,Rhaella Targaryen,parentOf,Daenerys Targaryen,ch0158597
+,Rhaella Targaryen,parentOf,Rhaegar Targaryen,
+,Rhaella Targaryen,parentOf,Viserys Targaryen,ch0155775
+ch0305331,Rickard Karstark,parentOf,Harald Karstark,ch0542917
+,Rickard Stark,parentOf,Brandon Stark,
+,Rickard Stark,parentOf,Benjen Stark,ch0153996
+,Rickard Stark,parentOf,Eddard Stark,ch0154681
+,Rickard Stark,parentOf,Lyanna Stark,ch0543804
+ch0155776,Robert Baratheon,parentOf,Joffrey Baratheon,ch0156278
+ch0155776,Robert Baratheon,parentOf,Myrcella Baratheon,ch0238585
+ch0155776,Robert Baratheon,parentOf,Tommen Baratheon,ch0256424
+ch0305006,Roose Bolton,parentOf,Ramsay Snow,ch0321004
+ch0244961,Samwell Tarly,parentOf,Baby Sam,ch0547881
+ch0316924,Selyse Baratheon,parentOf,Shireen Baratheon,ch0306346
+ch0250897,Stannis Baratheon,parentOf,Shireen Baratheon,ch0306346
+ch0242185,Tywin Lannister,parentOf,Jaime Lannister,ch0158527
+ch0242185,Tywin Lannister,parentOf,Cersei Lannister,ch0159526
+ch0242185,Tywin Lannister,parentOf,Tyrion Lannister,ch0146096
+ch0305328,Walder Frey,parentOf,Black Walder Rivers,ch0014591
+ch0305328,Walder Frey,parentOf,Lothar Frey,ch0384471
+ch0305328,Walder Frey,parentOf,Roslin Frey,ch0391563
+ch0305328,Walder Frey,parentOf,Ryger Rivers,ch0014591
+ch0524546,Yohn Royce,parentOf,Waymar Royce,ch0171390
+,Aegon Targaryen,parents,Elia Martell,
+,Aegon Targaryen,parents,Rhaegar Targaryen,
+ch0576836,Alys Karstark,parents,Harald Karstark,ch0542917
+ch0158604,Arya Stark,parents,Eddard Stark,ch0154681
+ch0158604,Arya Stark,parents,Catelyn Stark,ch0145135
+ch0547881,Baby Sam,parents,Samwell Tarly,ch0244961
+ch0547881,Baby Sam,parents,Gilly,ch0306819
+ch0153996,Benjen Stark,parents,Rickard Stark,
+ch0014591,Black Walder Rivers,parents,Walder Frey,ch0305328
+,Brandon Stark,parents,Rickard Stark,
+ch0234897,Bran Stark,parents,Eddard Stark,ch0154681
+ch0234897,Bran Stark,parents,Catelyn Stark,ch0145135
+ch0145135,Catelyn Stark,parents,Hoster Tully,ch0540082
+ch0159526,Cersei Lannister,parents,Tywin Lannister,ch0242185
+ch0158597,Daenerys Targaryen,parents,Aerys II Targaryen,ch0541362
+ch0158597,Daenerys Targaryen,parents,Rhaella Targaryen,
+ch0541363,Dickon Tarly,parents,Randyll Tarly,ch0524408
+ch0541363,Dickon Tarly,parents,Melessa Tarly,ch0541191
+ch0154681,Eddard Stark,parents,Rickard Stark,
+ch0300040,Gendry,parents,Robert Baratheon,ch0155776
+ch0306819,Gilly,parents,Craster,ch0300218
+ch0542917,Harald Karstark,parents,Rickard Karstark,ch0305331
+ch0158527,Jaime Lannister,parents,Tywin Lannister,ch0242185
+ch0156278,Joffrey Baratheon,parents,Robert Baratheon,ch0155776
+ch0156278,Joffrey Baratheon,parents,Cersei Lannister,ch0159526
+ch0156278,Joffrey Baratheon,parents,Jaime Lannister,ch0158527
+ch0316921,Jojen Reed,parents,Howland Reed,ch0543132
+ch0155777,Jon Snow,parents,Rhaegar Targaryen,
+ch0155777,Jon Snow,parents,Lyanna Stark,ch0543804
+ch0158221,Jorah Mormont,parents,Jeor Mormont,ch0251492
+ch0376927,Lancel Lannister,parents,Kevan Lannister,ch0305013
+ch0231428,Loras Tyrell,parents,Mace Tyrell,ch0384328
+ch0384471,Lothar Frey,parents,Walder Frey,ch0305328
+ch0543804,Lyanna Stark,parents,Rickard Stark,
+ch0251736,Lysa Arryn,parents,Hoster Tully,ch0540082
+ch0251974,Margaery Tyrell,parents,Mace Tyrell,ch0384328
+ch0395355,Martyn Lannister,parents,Kevan Lannister,ch0305013
+ch0305029,Matthos Seaworth,parents,Davos Seaworth,ch0255396
+ch0316928,Meera Reed,parents,Howland Reed,ch0543132
+ch0238585,Myrcella Baratheon,parents,Robert Baratheon,ch0155776
+ch0238585,Myrcella Baratheon,parents,Cersei Lannister,ch0159526
+ch0238585,Myrcella Baratheon,parents,Jaime Lannister,ch0158527
+ch0468074,Nymeria Sand,parents,Oberyn Martell,ch0392307
+ch0468001,Obara Sand,parents,Oberyn Martell,ch0392307
+ch0321004,Ramsay Snow,parents,Roose Bolton,ch0305006
+,Rhaegar Targaryen,parents,Rhaella Targaryen,
+,Rhaegar Targaryen,parents,Aerys II Targaryen,ch0541362
+,Rhaego,parents,Khal Drogo,ch0171388
+,Rhaego,parents,Daenerys Targaryen,ch0158597
+,Rhaenys Targaryen,parents,Elia Martell,
+,Rhaenys Targaryen,parents,Rhaegar Targaryen,
+ch0233141,Rickon Stark,parents,Eddard Stark,ch0154681
+ch0233141,Rickon Stark,parents,Catelyn Stark,ch0145135
+ch0158596,Robb Stark,parents,Eddard Stark,ch0154681
+ch0158596,Robb Stark,parents,Catelyn Stark,ch0145135
+ch0300949,Robin Arryn,parents,Jon Arryn,ch0251737
+ch0300949,Robin Arryn,parents,Lysa Arryn,ch0251736
+ch0391563,Roslin Frey,parents,Walder Frey,ch0305328
+ch0014591,Ryger Rivers,parents,Walder Frey,ch0305328
+ch0244961,Samwell Tarly,parents,Randyll Tarly,ch0524408
+ch0244961,Samwell Tarly,parents,Melessa Tarly,ch0541191
+ch0158137,Sansa Stark,parents,Eddard Stark,ch0154681
+ch0158137,Sansa Stark,parents,Catelyn Stark,ch0145135
+ch0306346,Shireen Baratheon,parents,Stannis Baratheon,ch0250897
+ch0306346,Shireen Baratheon,parents,Selyse Baratheon,ch0316924
+ch0540067,Smalljon Umber,parents,Greatjon Umber,ch0305010
+ch0523897,Talla Tarly,parents,Randyll Tarly,ch0524408
+ch0523897,Talla Tarly,parents,Melessa Tarly,ch0541191
+ch0158526,Theon Greyjoy,parents,Balon Greyjoy,ch0292152
+ch0256424,Tommen Baratheon,parents,Robert Baratheon,ch0155776
+ch0256424,Tommen Baratheon,parents,Cersei Lannister,ch0159526
+ch0256424,Tommen Baratheon,parents,Jaime Lannister,ch0158527
+ch0506400,Trystane Martell,parents,Doran Martell,ch0468006
+ch0468075,Tyene Sand,parents,Oberyn Martell,ch0392307
+ch0468075,Tyene Sand,parents,Ellaria Sand,ch0309687
+ch0146096,Tyrion Lannister,parents,Tywin Lannister,ch0242185
+ch0155775,Viserys Targaryen,parents,Rhaella Targaryen,
+ch0155775,Viserys Targaryen,parents,Aerys II Targaryen,ch0541362
+ch0171390,Waymar Royce,parents,Yohn Royce,ch0524546
+ch0395356,Willem Lannister,parents,Kevan Lannister,ch0305013
+ch0300217,Yara Greyjoy,parents,Balon Greyjoy,ch0292152
+ch0541362,Aerys II Targaryen,servedBy,Arthur Dayne,ch0540097
+ch0541362,Aerys II Targaryen,servedBy,Jaime Lannister,ch0158527
+ch0254503,Brienne of Tarth,servedBy,Podrick Payne,ch0306046
+ch0158597,Daenerys Targaryen,servedBy,Barristan Selmy,ch0241346
+ch0158597,Daenerys Targaryen,servedBy,Daario Naharis,ch0335040
+ch0158597,Daenerys Targaryen,servedBy,Grey Worm,ch0335038
+ch0158597,Daenerys Targaryen,servedBy,Jorah Mormont,ch0158221
+ch0158597,Daenerys Targaryen,servedBy,Missandei,ch0316923
+ch0158597,Daenerys Targaryen,servedBy,Tyrion Lannister,ch0146096
+ch0242185,Tywin Lannister,servedBy,Gregor Clegane,ch0245401
+ch0507107,Areo Hotah,serves,Doran Martell,ch0468006
+ch0540097,Arthur Dayne,serves,Aerys II Targaryen,ch0541362
+ch0241346,Barristan Selmy,serves,Daenerys Targaryen,ch0158597
+ch0254503,Brienne of Tarth,serves,Renly Baratheon,ch0246253
+ch0254503,Brienne of Tarth,serves,Catelyn Stark,ch0145135
+ch0254503,Brienne of Tarth,serves,Sansa Stark,ch0158137
+ch0254503,Brienne of Tarth,serves,Bran Stark,ch0234897
+ch0335040,Daario Naharis,serves,Daenerys Targaryen,ch0158597
+ch0255396,Davos Seaworth,serves,Stannis Baratheon,ch0250897
+ch0255396,Davos Seaworth,serves,Jon Snow,ch0155777
+ch0245401,Gregor Clegane,serves,Tywin Lannister,ch0242185
+ch0245401,Gregor Clegane,serves,Cersei Lannister,ch0159526
+ch0335038,Grey Worm,serves,Daenerys Targaryen,ch0158597
+ch0158221,Jorah Mormont,serves,Daenerys Targaryen,ch0158597
+ch0245400,Jory Cassel,serves,Eddard Stark,ch0154681
+ch0316923,Missandei,serves,Daenerys Targaryen,ch0158597
+ch0306046,Podrick Payne,serves,Tyrion Lannister,ch0146096
+ch0306046,Podrick Payne,serves,Brienne of Tarth,ch0254503
+ch0306046,Podrick Payne,serves,Bran Stark,ch0234897
+ch0316929,Qyburn,serves,Cersei Lannister,ch0159526
+ch0171391,Rodrik Cassel,serves,Eddard Stark,ch0154681
+ch0146096,Tyrion Lannister,serves,Daenerys Targaryen,ch0158597
+,Aegon Targaryen,siblings,Rhaenys Targaryen,
+,Aegon Targaryen,siblings,Jon Snow,ch0155777
+ch0540081,Aeron Greyjoy,siblings,Balon Greyjoy,ch0292152
+ch0540081,Aeron Greyjoy,siblings,Euron Greyjoy,ch0518715
+ch0541362,Aerys II Targaryen,siblings,Rhaella Targaryen,
+ch0158604,Arya Stark,siblings,Robb Stark,ch0158596
+ch0158604,Arya Stark,siblings,Sansa Stark,ch0158137
+ch0158604,Arya Stark,siblings,Bran Stark,ch0234897
+ch0158604,Arya Stark,siblings,Rickon Stark,ch0233141
+ch0292152,Balon Greyjoy,siblings,Euron Greyjoy,ch0518715
+ch0292152,Balon Greyjoy,siblings,Aeron Greyjoy,ch0540081
+ch0153996,Benjen Stark,siblings,Brandon Stark,
+ch0153996,Benjen Stark,siblings,Lyanna Stark,ch0543804
+ch0153996,Benjen Stark,siblings,Eddard Stark,ch0154681
+,Brandon Stark,siblings,Lyanna Stark,ch0543804
+,Brandon Stark,siblings,Benjen Stark,ch0153996
+,Brandon Stark,siblings,Eddard Stark,ch0154681
+ch0234897,Bran Stark,siblings,Robb Stark,ch0158596
+ch0234897,Bran Stark,siblings,Sansa Stark,ch0158137
+ch0234897,Bran Stark,siblings,Arya Stark,ch0158604
+ch0234897,Bran Stark,siblings,Rickon Stark,ch0233141
+ch0381563,Brynden Tully,siblings,Hoster Tully,ch0540082
+ch0145135,Catelyn Stark,siblings,Lysa Arryn,ch0251736
+ch0145135,Catelyn Stark,siblings,Edmure Tully,ch0316931
+ch0159526,Cersei Lannister,siblings,Jaime Lannister,ch0158527
+ch0159526,Cersei Lannister,siblings,Tyrion Lannister,ch0146096
+ch0158597,Daenerys Targaryen,siblings,Rhaegar Targaryen,
+ch0158597,Daenerys Targaryen,siblings,Viserys Targaryen,ch0155775
+ch0541363,Dickon Tarly,siblings,Samwell Tarly,ch0244961
+ch0541363,Dickon Tarly,siblings,Talla Tarly,ch0523897
+ch0468006,Doran Martell,siblings,Elia Martell,
+ch0468006,Doran Martell,siblings,Oberyn Martell,ch0392307
+,Drogon,siblings,Rhaegal,
+,Drogon,siblings,Viserion,
+ch0154681,Eddard Stark,siblings,Brandon Stark,
+ch0154681,Eddard Stark,siblings,Benjen Stark,ch0153996
+ch0154681,Eddard Stark,siblings,Lyanna Stark,ch0543804
+ch0316931,Edmure Tully,siblings,Catelyn Stark,ch0145135
+ch0316931,Edmure Tully,siblings,Lysa Arryn,ch0251736
+,Elia Martell,siblings,Doran Martell,ch0468006
+,Elia Martell,siblings,Oberyn Martell,ch0392307
+ch0518715,Euron Greyjoy,siblings,Balon Greyjoy,ch0292152
+ch0518715,Euron Greyjoy,siblings,Aeron Greyjoy,ch0540081
+,Ghost,siblings,Grey Wind,
+,Ghost,siblings,Lady,
+,Ghost,siblings,Nymeria,
+,Ghost,siblings,Summer,
+,Ghost,siblings,Shaggydog,
+,Grey Wind,siblings,Lady,
+,Grey Wind,siblings,Nymeria,
+,Grey Wind,siblings,Summer,
+,Grey Wind,siblings,Shaggydog,
+,Grey Wind,siblings,Ghost,
+ch0158527,Jaime Lannister,siblings,Cersei Lannister,ch0159526
+ch0158527,Jaime Lannister,siblings,Tyrion Lannister,ch0146096
+ch0156278,Joffrey Baratheon,siblings,Myrcella Baratheon,ch0238585
+ch0156278,Joffrey Baratheon,siblings,Tommen Baratheon,ch0256424
+ch0316921,Jojen Reed,siblings,Meera Reed,ch0316928
+ch0305013,Kevan Lannister,siblings,Tywin Lannister,ch0242185
+,Lady,siblings,Grey Wind,
+,Lady,siblings,Nymeria,
+,Lady,siblings,Summer,
+,Lady,siblings,Shaggydog,
+,Lady,siblings,Ghost,
+ch0376927,Lancel Lannister,siblings,Martyn Lannister,ch0395355
+ch0376927,Lancel Lannister,siblings,Willem Lannister,ch0395356
+ch0231428,Loras Tyrell,siblings,Margaery Tyrell,ch0251974
+ch0543804,Lyanna Stark,siblings,Brandon Stark,
+ch0543804,Lyanna Stark,siblings,Benjen Stark,ch0153996
+ch0543804,Lyanna Stark,siblings,Eddard Stark,ch0154681
+ch0251736,Lysa Arryn,siblings,Edmure Tully,ch0316931
+ch0251974,Margaery Tyrell,siblings,Loras Tyrell,ch0231428
+ch0395355,Martyn Lannister,siblings,Lancel Lannister,ch0376927
+ch0395355,Martyn Lannister,siblings,Willem Lannister,ch0395356
+ch0238585,Myrcella Baratheon,siblings,Joffrey Baratheon,ch0156278
+ch0238585,Myrcella Baratheon,siblings,Tommen Baratheon,ch0256424
+,Nymeria,siblings,Grey Wind,
+,Nymeria,siblings,Lady,
+,Nymeria,siblings,Summer,
+,Nymeria,siblings,Shaggydog,
+,Nymeria,siblings,Ghost,
+ch0392307,Oberyn Martell,siblings,Doran Martell,ch0468006
+ch0392307,Oberyn Martell,siblings,Elia Martell,
+ch0246253,Renly Baratheon,siblings,Robert Baratheon,ch0155776
+ch0246253,Renly Baratheon,siblings,Stannis Baratheon,ch0250897
+,Rhaegal,siblings,Drogon,
+,Rhaegal,siblings,Viserion,
+,Rhaegar Targaryen,siblings,Daenerys Targaryen,ch0158597
+,Rhaegar Targaryen,siblings,Viserys Targaryen,ch0155775
+,Rhaella Targaryen,siblings,Aerys II Targaryen,ch0541362
+ch0233141,Rickon Stark,siblings,Robb Stark,ch0158596
+ch0233141,Rickon Stark,siblings,Sansa Stark,ch0158137
+ch0233141,Rickon Stark,siblings,Arya Stark,ch0158604
+ch0233141,Rickon Stark,siblings,Bran Stark,ch0234897
+ch0158596,Robb Stark,siblings,Sansa Stark,ch0158137
+ch0158596,Robb Stark,siblings,Arya Stark,ch0158604
+ch0158596,Robb Stark,siblings,Bran Stark,ch0234897
+ch0158596,Robb Stark,siblings,Rickon Stark,ch0233141
+ch0155776,Robert Baratheon,siblings,Stannis Baratheon,ch0250897
+ch0155776,Robert Baratheon,siblings,Renly Baratheon,ch0246253
+ch0244961,Samwell Tarly,siblings,Dickon Tarly,ch0541363
+ch0244961,Samwell Tarly,siblings,Talla Tarly,ch0523897
+ch0162882,Sandor Clegane,siblings,Gregor Clegane,ch0245401
+ch0158137,Sansa Stark,siblings,Robb Stark,ch0158596
+ch0158137,Sansa Stark,siblings,Arya Stark,ch0158604
+ch0158137,Sansa Stark,siblings,Bran Stark,ch0234897
+ch0158137,Sansa Stark,siblings,Rickon Stark,ch0233141
+,Shaggydog,siblings,Grey Wind,
+,Shaggydog,siblings,Lady,
+,Shaggydog,siblings,Nymeria,
+,Shaggydog,siblings,Summer,
+,Shaggydog,siblings,Ghost,
+ch0250897,Stannis Baratheon,siblings,Robert Baratheon,ch0155776
+ch0250897,Stannis Baratheon,siblings,Renly Baratheon,ch0246253
+,Summer,siblings,Grey Wind,
+,Summer,siblings,Lady,
+,Summer,siblings,Nymeria,
+,Summer,siblings,Shaggydog,
+,Summer,siblings,Ghost,
+ch0523897,Talla Tarly,siblings,Dickon Tarly,ch0541363
+ch0523897,Talla Tarly,siblings,Samwell Tarly,ch0244961
+ch0158526,Theon Greyjoy,siblings,Yara Greyjoy,ch0300217
+ch0256424,Tommen Baratheon,siblings,Joffrey Baratheon,ch0156278
+ch0256424,Tommen Baratheon,siblings,Myrcella Baratheon,ch0238585
+ch0146096,Tyrion Lannister,siblings,Cersei Lannister,ch0159526
+ch0146096,Tyrion Lannister,siblings,Jaime Lannister,ch0158527
+,Viserion,siblings,Drogon,
+,Viserion,siblings,Rhaegal,
+ch0155775,Viserys Targaryen,siblings,Daenerys Targaryen,ch0158597
+ch0155775,Viserys Targaryen,siblings,Rhaegar Targaryen,
+ch0395356,Willem Lannister,siblings,Lancel Lannister,ch0376927
+ch0395356,Willem Lannister,siblings,Martyn Lannister,ch0395355
+ch0300217,Yara Greyjoy,siblings,Theon Greyjoy,ch0158526
